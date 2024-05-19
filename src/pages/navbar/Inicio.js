@@ -7,21 +7,25 @@ import {Link} from 'react-router-dom'
 
 export const Inicio = () => {
   return (
-    <div>
+    <div class="contain">
       <>
       <img src="images/bg.jpg" alt=""/>
-      <div class="header-content container"> 
-      
-            <div class="header-txt">
-                <h1>Compra tu <span>juego</span> <br></br> favorito aqui</h1>
+      <div class="header-content-container"> 
+        <br></br>
+              <div class="header-txt">
+                  <h1>Compra tu <span>juego</span> <br></br> favorito aqui</h1>
 
-                <p>
-                    En PowerPlay, nos apasiona brindarte la mejor experiencia en el mundo de los videojuegos. 
-                    Con una amplia selección de títulos, desde los clásicos atemporales hasta las últimas novedades, 
-                    estamos aquí para satisfacer todas tus necesidades de entretenimiento digital.
-                </p>
-           </div>
-        </div>  
+                  <p>
+                      En PowerPlay, nos apasiona brindarte la mejor experiencia en el mundo de los videojuegos. 
+                  </p>
+                  <p>
+                      Con una amplia selección de títulos, desde los clásicos atemporales hasta las últimas novedades, 
+                  </p>
+                  <p>
+                      estamos aquí para satisfacer todas tus necesidades de entretenimiento digital.
+                  </p>
+        </div>
+    </div>
  </>
  <section class="popular container">
          <h2>Juegos populares</h2>
