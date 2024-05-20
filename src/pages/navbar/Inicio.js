@@ -13,17 +13,15 @@ export const Inicio = () => {
       <div class="header-content-container"> 
         <br></br>
               <div class="header-txt">
+                <br></br>
+                <br></br>
                   <h1>Compra tu <span>juego</span> <br></br> favorito aqui</h1>
-
                   <p>
-                      En PowerPlay, nos apasiona brindarte la mejor experiencia en el mundo de los videojuegos. 
-                  </p>
-                  <p>
-                      Con una amplia selección de títulos, desde los clásicos atemporales hasta las últimas novedades, 
-                  </p>
-                  <p>
-                      estamos aquí para satisfacer todas tus necesidades de entretenimiento digital.
-                  </p>
+                  En PowerPlay, nos apasiona brindarte la mejor experiencia en el mundo de los videojuegos. 
+                </p>
+                <div class="butons">
+                    <a href="a" class="btn-1">Informacion</a>
+                </div>
         </div>
     </div>
  </>
